@@ -2,6 +2,14 @@
 
 Changelog of rimfrost-regel-kommunicering-subprocess.
 
+## 0.1.0 (2026-11-27)
+
+### Features
+
+-  Bump dependencies ([9ec21](https://github.com/Forsakringskassan/rimfrost-regel-kommunicering-subprocess/commit/9ec21298e7e3fd2) Lars Persson)  
+
+## rimfrost-1_3 (2026-11-16)
+
 ## 0.0.1 (2026-11-16)
 
 ### Features
